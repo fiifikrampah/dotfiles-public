@@ -1,0 +1,80 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Bitstream Vera Sans Mono", // Alternatives: "Jetbrains mono", "MesloLGS NF"
+    "terminal.integrated.fontWeightBold": "5",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.inheritEnv": false,
+    "editor.renderWhitespace": "all",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnType": true
+    },
+    "terminal.explorerKind": "external",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 14,
+    "python.formatting.provider": "black",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#5caeef",
+        "editorBracketHighlight.foreground2": "#dfb976",
+        "editorBracketHighlight.foreground3": "#c172d9",
+        "editorBracketHighlight.foreground4": "#4fb1bc",
+        "editorBracketHighlight.foreground5": "#97c26c",
+        "editorBracketHighlight.foreground6": "#abb2c0",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#db6165",
+        "terminal.ansiYellow": "#ffa500",
+        "terminal.ansiBlue": "#4db0c9",
+        "terminal.ansiBrightBlue": "#4db0c9",
+        "terminal.ansiBrightCyan": "#4db0c9",
+        "terminal.ansiBrightGreen": "#09c37e",
+        "terminal.ansiCyan": "#4db0c9",
+        "terminal.ansiGreen": "#09c37e",
+        "terminal.background": "#232731",
+        "terminal.foreground": "#f6f7f9"
+    },
+    "Notes.notesLocation": "$HOME/Documents/notes",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--rcfile=~/.pylintrc"
+    ],
+    "git-graph.customEmojiShortcodeMappings": [],
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "oneDarkPro.vivid": true,
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 2,
+    "editor.accessibilitySupport": "off",
+    "editor.tokenColorCustomizations": {
+        "comments": "#959595",
+        "functions": "#e89c9c",
+        "keywords": "#4db0c9",
+        "numbers": "#e1d9cf",
+        "strings": "#01d7c2",
+        "types": "#f1f1f1"
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "[Nord Deep]": {
+            "enabled": true,
+            "rules": {
+                "variable": "#cf93f1",
+                "parameter": "#6ece8d"
+            }
+        }
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorTheme": "Nord Deep",
+    "editor.trimAutoWhitespace": false,
+    "tws.highlightOnlyChangedLines": true,
+    "files.trimTrailingWhitespace": true,
+    "tws.highlightTrailingWhiteSpace": true,
+    "settingsSync.ignoredExtensions": [],
+    "git.openRepositoryInParentFolders": "never"
+}
