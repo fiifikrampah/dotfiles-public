@@ -1,0 +1,17 @@
+- Nord Deep
+- Notes
+- Partial Diff
+- Python
+- Black Formatter
+- Diff & Merge
+- Git Graph
+- Gitlens
+- isort
+- Kubernetes
+- Kubernetes Templates
+- Markdown All in One
+- markdownline
+- Material Icon Theme
+- Terraform
+- Trailing Spaces
+- YAML
