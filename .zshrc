@@ -123,7 +123,7 @@ PS1='%(?.%{$fg[green]%}.%{$fg[red]%})%(!.#.➜) $(ssh_info)%{$fg[blue]%}%1~%u$(g
 
 # Source fzf and zsh syntax highlighting
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # pyenv config
 export PYENV_ROOT="$HOME/.pyenv"
