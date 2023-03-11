@@ -21,7 +21,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/
 
 # Install alias tips
 cd ${ZSH_CUSTOM1:-$ZSH/custom}/plugins
-git submodule add https://github.com/djui/alias-tips
+git submodule add -f https://github.com/djui/alias-tips
 git submodule update --init
 
 # Copy over vscode settings
